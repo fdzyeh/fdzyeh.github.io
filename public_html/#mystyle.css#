@@ -1,0 +1,3 @@
+body { background-color:Pink; }
+
+a:hover { color:Blue; }

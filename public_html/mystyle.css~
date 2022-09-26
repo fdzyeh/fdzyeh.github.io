@@ -1,0 +1,5 @@
+body { background-color:#e5e4e2; }
+
+ol { 
+a:hover { color:Blue; }
+}
